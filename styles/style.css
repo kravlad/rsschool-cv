@@ -1,0 +1,25 @@
+header {
+    display: block;
+}
+footer {
+    display: block;
+}
+nav {
+    display: block;
+}
+nav ul {
+    list-style-type: none;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+nav li {
+    display: inline;
+    list-style-type: none;
+    text-align: left;
+}
+
+#border {
+    margin-left:0;
+    width: 100%;
+}
