@@ -19,7 +19,7 @@ nav li {
     text-align: left;
 }
 
-#border {
+.border {
     margin-left:0;
     width: 100%;
 }
